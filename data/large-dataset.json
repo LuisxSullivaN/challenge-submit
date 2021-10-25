@@ -1,0 +1,3800 @@
+{
+  "data": {
+    "filmCollection": {
+      "items": [
+        {
+          "sys": {
+            "id": "1nxjmsYagl2gtn6XCBzg87",
+            "firstPublishedAt": "2021-04-02T13:01:06.827Z"
+          },
+          "title": "A Conversation with Curren$y",
+          "slug": "a-conversation-with-currensy",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3IxCXiGyBGaFgc2IAcRuk/2f75e4777ea16975a471fa7385a914ff/Interview.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Curren$y"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "59MTbDbEXWurLH0h1OrnG8",
+            "firstPublishedAt": "2021-03-26T11:01:10.533Z"
+          },
+          "title": "Live! Breaking Ground",
+          "slug": "breaking-ground",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4jejxvJBhelw8Hu4nwFpKN/e3c38a6fab10b4bffaa05562418b9198/SMB_BoxArt_16x9.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Steve Miller Band"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7kuivaHY30BMW3dQKuvuNC",
+            "firstPublishedAt": "2021-03-26T05:17:11.691Z"
+          },
+          "title": "Evanescence: Embracing The Bitter Truth",
+          "slug": "evanescence-embracing-the-bitter-truth",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3djqJmGZrCWGdNgTfcJMQa/d49a07deebb5798bf4fef394980f1a95/Evanescence_BoxArt_16x9.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Evanescence"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6weTHJ3lOaPnyz8ZjgOrk3",
+            "firstPublishedAt": "2021-03-23T14:43:03.641Z"
+          },
+          "title": "Never Say Die: The Complete Final Concert",
+          "slug": "never-say-die-the-complete-final-concert",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2tDwq0csP8G22vhkwlp2F0/54d878267cb5b611e89aad465af55280/WaylonJennings_BoxArt_16x9.jpg"
+          },
+          "genre": {
+            "title": "Country",
+            "slug": "country"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Waylon Jennings"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1fQpAs7JhDnC0brOk3Nvs7",
+            "firstPublishedAt": "2021-03-17T22:06:18.174Z"
+          },
+          "title": "Chapter 1: The Genesis",
+          "slug": "chapter-1-the-genesis",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/50F9f7ZmgvEquvVeXrfBIx/cddf82e5ae0bbbae87c688a784074ff0/CoolKids1.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3NvFmMyN9uM6eoSM6gX3sF",
+            "firstPublishedAt": "2021-03-17T21:09:52.369Z"
+          },
+          "title": "Chapter 7: The Triple Album",
+          "slug": "chapter-7-the-triple-album",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6sFOEpcmA73tqYJGEHtDOQ/b3e2da89f64b0f9390a8ca3a2ea81e51/CoolKids7.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2x5k0XklFjBmnvXjEzebMj",
+            "firstPublishedAt": "2021-03-17T21:05:30.416Z"
+          },
+          "title": "Chapter 6: The Legacy",
+          "slug": "chapter-6-the-legacy",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/ykFSq40AHDqYduUeKZE2U/5a85392ccee8cff34a5412a09031b909/CoolKids6.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2SRtgjnwKSTC9qLBa1bwGQ",
+            "firstPublishedAt": "2021-03-17T20:59:35.262Z"
+          },
+          "title": "Chapter 5: The Label Game",
+          "slug": "chapter-5-the-label-game",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2z3GBwiEfAyhYm7VO9AfiT/9e3b8d074eedeb204f1609eec256317a/CoolKids5.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1lDRYD7DcqNyTlpUu1G2Ug",
+            "firstPublishedAt": "2021-03-17T20:00:47.994Z"
+          },
+          "title": "Chapter 4: “Black Mags” and Cool Kids Hysteria ",
+          "slug": "chapter-4-black-mags-and-cool-kids-hysteria",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/gStKAMKtTSkNmy0spWSSy/399e662ed5524e91a675effe31830142/CoolKids4.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1XwkL0xwVmnJuDTKgH85ok",
+            "firstPublishedAt": "2021-03-17T19:59:56.245Z"
+          },
+          "title": "Chapter 3: Fashion Pioneers",
+          "slug": "chapter-3-fashion-pioneers",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3cNNo7QM16IwD720UpJNLY/88efda7bf21f151752a53524ed895f91/CoolKids3.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3MfxlADmpmGSFJwp2OAIVw",
+            "firstPublishedAt": "2021-03-17T19:57:49.654Z"
+          },
+          "title": "Chapter 2: The Sound, the Look, the Name",
+          "slug": "chapter-2-the-sound-the-look-the-name",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7Gaui6UzO52voPMc43x8Ql/bff3e849220d2c76c0eed62c0e4a42a0/CoolKids2.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5p1E87e0KTCWTCsHIG9wCK",
+            "firstPublishedAt": "2021-03-19T12:42:17.594Z"
+          },
+          "title": "A Conversation with The Cool Kids",
+          "slug": "a-conversation-with-the-cool-kids",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5ThsNaw44IJgoQEkQXPTDi/913b78c6bb101cd6293878ec12358821/Interview.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Cool Kids"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "20O7Gx8267io0l8DjpymH",
+            "firstPublishedAt": "2021-03-11T14:38:34.056Z"
+          },
+          "title": "Pearl Jam Twenty Bonus Footage",
+          "slug": "pearl-jam-twenty-bonus-footage",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5GsYGcOpp5qoERz6BgsVwY/e0cf60c024e865270596494541d72b23/legacymusic-1000222-image-16x9_Cover-en-US-PearlJam__1_.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Pearl Jam"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4KxpExf2EA834hAGALCV9L",
+            "firstPublishedAt": "2021-02-17T05:36:26.510Z"
+          },
+          "title": "A Plea to Mark Zuckerberg",
+          "slug": "a-plea-to-mark-zuckerberg",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/78D7PDHbKbfZKaOvuQar8a/1a4b86054e7dec6ebdf0cda4da7742d7/Freddie-Chappter7.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5Yf3QsGzMmpoGBKzuLyrK8",
+            "firstPublishedAt": "2021-02-17T05:31:17.171Z"
+          },
+          "title": "Alchemist and Madlib",
+          "slug": "alchemist-and-madlib",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6EtmVN9KdxXAwIL4mM2qPp/aa6ead91e8d8686f287a81c0005127b7/Freddie-Chappter6.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "49SlntOlDYRKKqqBJAwIAg",
+            "firstPublishedAt": "2021-02-17T05:28:48.062Z"
+          },
+          "title": "Jumping to a Major Label",
+          "slug": "jumping-to-a-major-label",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7KyxCSFhgYKF1cnY5rLkLb/082b08584e1b99ea1d6ad26583f851d5/Freddie-Chappter5.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2KOiAI3VZpSUhLLMOBCsdE",
+            "firstPublishedAt": "2021-02-17T05:25:34.150Z"
+          },
+          "title": "Rising Out of Gary, Indiana",
+          "slug": "rising-out-of-gary-in",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/i8r30tvMDb3qHy1I3twQg/9b1d5f9adfd233106e2c72c69eaa192b/Freddie-Chappter4.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3qQ2SF1MNkEdHpcLvDzYQc",
+            "firstPublishedAt": "2021-02-17T05:23:02.830Z"
+          },
+          "title": "Ups and Downs of an Independent Artist",
+          "slug": "ups-and-downs-of-an-independent-artist",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6y14s8akPpcpqdvUAu58Ob/7195b6413049283075fea12f9718631c/Freddie-Chappter3.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2QLXU2arr7HOZKLkMu98vv",
+            "firstPublishedAt": "2021-02-17T05:19:52.673Z"
+          },
+          "title": "Mental Health and Longevity",
+          "slug": "mental-health-and-longevity",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6gPWNgcVH9soYVJeFYYtZp/942898015ad04ed3d84a271b7bc8e8c8/Freddie-Chappter2.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "14HRXozvQ1z4CZEHTGDOlX",
+            "firstPublishedAt": "2021-02-17T05:14:15.459Z"
+          },
+          "title": "'Alfredo' Grammy Nomination ",
+          "slug": "alfredo-grammy-nomination",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/xLLZroaqMMr1LgVD89xHx/bfdd520fc5791d8f896ca212b1387751/Freddie-Chappter1.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3gJDMIevupLlbUW3O1AiNt",
+            "firstPublishedAt": "2021-02-17T04:34:26.667Z"
+          },
+          "title": "A Conversation with Freddie Gibbs",
+          "slug": "a-conversation-with-freddie-gibbs",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6A6Y1ltfzA1uOEsjVVsH34/548a66e429002021906ff5787054b076/Interview.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie Gibbs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1InHGxb57XlbXFU0nU23kA",
+            "firstPublishedAt": "2021-02-15T20:05:11.005Z"
+          },
+          "title": "Live From Blackbird",
+          "slug": "live-from-blackbird",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/15Vs3C4Up75J78l1AOu77Z/53f8210c23a6c2fe1117feb80b0ef561/PunchBrothers32.jpg"
+          },
+          "genre": {
+            "title": "Folk",
+            "slug": "folk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Punch Brothers"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6OnjQnm8NzqDHboUnnMj04",
+            "firstPublishedAt": "2021-02-15T19:58:56.676Z"
+          },
+          "title": "Live at Red Rocks 9/26/2020",
+          "slug": "live-at-red-rocks-9-26-2020",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1lv59TaLmQrypJlmzgNzfw/c24d8ba483add7c8d88c837cd951b668/BillyStrings_BoxArt_16x9.jpg"
+          },
+          "genre": {
+            "title": "Country",
+            "slug": "country"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Billy Strings"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6JQzivCzm03bwYAjJCysDy",
+            "firstPublishedAt": "2021-02-15T03:52:49.562Z"
+          },
+          "title": "Lupe, Jay-Z and Monopoly",
+          "slug": "lupe-jay-z-and-monopoly",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/28sqUIEZnZyVxGMSt12VwV/c5413628093f8c294044a4399e164862/Chapter_8Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2g5JnsnApgwrlIAaDTfcm6",
+            "firstPublishedAt": "2021-02-15T03:50:26.284Z"
+          },
+          "title": "Lupe and Kanye",
+          "slug": "lupe-and-kanye",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/KSgqVRVQPcDzoya4lZLyE/d4d07aa07557898a6e0d8562abe9ff73/Chapter_7Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2HNnvvSuHMDmqYTlj30z3T",
+            "firstPublishedAt": "2021-02-15T03:46:51.995Z"
+          },
+          "title": "Lupe's Influences on the Next Generation of Rappers",
+          "slug": "lupes-influences-on-the-next-generation-of-rappers",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/50vWqoV28cviYFzcDW7SyL/072c9144d68c4f6098ad8e0c95c4af49/Chapter_6Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "Ut6RZH6rPUtAvHflFNclz",
+            "firstPublishedAt": "2021-02-15T03:44:36.240Z"
+          },
+          "title": "Building a Label",
+          "slug": "building-a-label",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2zTwVhlfEMwumvwonL6raO/86c578bb1700ab8a51255d220e35f894/Chapter_5Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5BfRUqXmPHjXgYxTGROmaV",
+            "firstPublishedAt": "2021-02-15T03:41:19.637Z"
+          },
+          "title": "Living a 'double life'",
+          "slug": "living-a-double-life",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/ygBuL5jnrsQMXr1CvbFro/f2a973f51da769a528655049bb4fc694/Chapter_4Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "o2PAkZpTytjZgWZp1SD4B",
+            "firstPublishedAt": "2021-02-15T03:39:16.208Z"
+          },
+          "title": "From Mixtapes to Albums",
+          "slug": "from-mix-tapes-to-albums",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/56Ax8qKkhUN1n7HSDcd9EH/f9212f1d9d1f47bc9ea3b2c05c83b8ae/Chapter_3Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4IhahB3soh0tUVeaRvbBLf",
+            "firstPublishedAt": "2021-02-15T03:37:33.480Z"
+          },
+          "title": "Aftermath Records and Writing Songs",
+          "slug": "aftermath-records-and-writing-songs",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4gXmhiqy1yPfQPMvqdKWVD/60c5a430c9551ecf90d8ef3c370b588b/Chapter_2Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4hvxlMcZHkpd3wiWJmOYAP",
+            "firstPublishedAt": "2021-02-15T03:07:36.220Z"
+          },
+          "title": "Lupe's Beginnings",
+          "slug": "lupes-beginnings",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2ALGWZB0g670ltkvTmm3th/fe6a923415ed47df13c02cf4127f673d/Chapter_1Resized.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "y9o8Vzx3z4FlkjoLQHEMp",
+            "firstPublishedAt": "2021-02-15T03:53:06.160Z"
+          },
+          "title": "A Conversation with Lupe Fiasco",
+          "slug": "a-conversation-with-lupe-fiasco",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4DvOpwqhefdIL4J5fRx8hN/1dd788a6957ef54406869476203d7771/lupe_convo_video_thumbnail__1_.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lupe Fiasco"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7eZi9wNAIUUsjjAE97G15d",
+            "firstPublishedAt": "2021-02-13T00:01:52.097Z"
+          },
+          "title": "Absolutely Live",
+          "slug": "absolutely-live",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7xVK0R3g13rNIB5DLsBUtp/f8c2bee1096c739e1426f9c2724811a0/legacymusic-1000189-image-16x9_Cover-en-US-TheToyDolls.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Toy Dolls"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7wvB7QdP4q2p2raM7Sxx3H",
+            "firstPublishedAt": "2021-02-12T18:27:23.215Z"
+          },
+          "title": "Core",
+          "slug": "core",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7GytB5wFr4iZYVYpQo4v5U/8915a867caaafca7cd13387090c7e309/legacymusic-1000091-image-16x9_Cover-en-US-StoneTemplePilots.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Stone Temple Pilots"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "37UMznSwfddPyxwWBuKggj",
+            "firstPublishedAt": "2021-02-12T18:14:06.492Z"
+          },
+          "title": "Purple",
+          "slug": "purple",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/63Lk3DZB6CsenDI1AIhejN/d4f617a4041f7f0331d90bb7a37254de/legacymusic-1000092-image-16x9_Cover-en-US-StoneTemplePilots.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Stone Temple Pilots"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2F3b5vttIcCiR3pTaa64fb",
+            "firstPublishedAt": "2021-02-12T03:42:41.204Z"
+          },
+          "title": "Live in Russia",
+          "slug": "live-in-russia",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6n7mM9EdG8QhEohQYc1mNz/628f3e64e12026ac4dfe72478a33ddee/legacymusic-1000211-image-16x9_Cover-en-US-KenHensley.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Ken Hensley & Live Fire"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "Q4589IZx9jsmXcyTROJvv",
+            "firstPublishedAt": "2021-02-12T03:18:51.281Z"
+          },
+          "title": "On the Road Again",
+          "slug": "on-the-road-again",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5Uav2jXJCNSJQ5lC4UDCLt/8885cb81cd3dc34af6d9ef6149a74a84/NineBelowZero3x2.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Nine Below Zero"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "583e7a2NhH9bBq8ylI4mTP",
+            "firstPublishedAt": "2021-02-11T21:47:35.209Z"
+          },
+          "title": "Wu-Tang Clan - Live at Montreux 2007",
+          "slug": "live-at-montreux-2007",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/66lPwOnwvcuFEG18L36pxZ/cf0e03302aec2f003252eda9341084d6/legacymusic-1000235-image-16x9_Cover-en-US-WuTangClan__2_.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Wu-Tang Clan"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4ARP30SLdb1tS0RoaxOcHP",
+            "firstPublishedAt": "2021-02-11T21:43:08.507Z"
+          },
+          "title": "Chuck D - The Great Songwriters",
+          "slug": "chuck-d-the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/03ilEMdiYc6aIbFogM1Kz/7d9b913d4fd655d191b157d5a37b31d0/legacymusic-1000025-image-16x9_Cover-en-US-Chuck_D__1_.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Chuck D"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "bandofgypsysdocumentary",
+            "firstPublishedAt": "2021-02-11T04:09:02.868Z"
+          },
+          "title": "Band of Gypsys Documentary",
+          "slug": "band-of-gypsys-documentary",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5brzb4KOubnQyAKif8Dprh/853f092d0eb0b9fd7cd6d053236ab5d0/JimiHendrixBandOfGypsys23x2.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "citybabyattackedbyrats",
+            "firstPublishedAt": "2021-02-11T02:58:18.343Z"
+          },
+          "title": "City Baby Attacked by Rats",
+          "slug": "city-baby-attacked-by-rats",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7eJ0ysV0fGmqyXw3Cl2rsa/51c81e7ec410bac4bf5c34de76428e18/ChargedGBH32.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Charged GBH"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "wevegottonight",
+            "firstPublishedAt": "2021-02-11T04:14:21.162Z"
+          },
+          "title": "We've Got Tonight",
+          "slug": "weve-got-tonight",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6G89Hkyfc9wOVn9Hn3z9Qw/911da68559ef0b18248df3154f105119/Elkie_BrooksNoText.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Elkie Brooks"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatmontreux1987",
+            "firstPublishedAt": "2021-02-11T17:26:02.531Z"
+          },
+          "title": "Curtis Mayfield - Live at Montreux 1987",
+          "slug": "live-at-montreux-1987",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1mitXHxv7zg7WVmw7rJp4K/34ec7ca911332f4d519c975897f8d68a/legacymusic-1000236-image-16x9_Cover-en-US-CurtisMayfield__1_.jpg"
+          },
+          "genre": {
+            "title": "Soul",
+            "slug": "soul"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Curtis Mayfield"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "bbcsessions",
+            "firstPublishedAt": "2021-02-11T03:13:05.347Z"
+          },
+          "title": "BBC Sessions",
+          "slug": "bbc-sessions",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6G0lJSgJz1PjccQw2gzXln/816ecc196f5e2ecfbb2a809e7aa40e9c/Jimi_Hendrix_BBCNoText.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "getonthetraintoskaville",
+            "firstPublishedAt": "2021-02-11T17:09:18.112Z"
+          },
+          "title": "Get on the Train to Skaville",
+          "slug": "get-on-the-train-to-skaville",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4G4hy8HoRN2zG7Ddox98BY/a04589561f684601a15b2aedfd36d9d5/legacymusic-1000179-image-16x9_Cover-en-US-TheSelector.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Selecter"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatthedome",
+            "firstPublishedAt": "2021-02-11T04:17:14.204Z"
+          },
+          "title": "Live at the Dome",
+          "slug": "live-at-the-dome",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6Lvty9Cnaahb7mblJjib03/e44057a432d21c81ed5dfbcce1bf2dfd/HumanLeague32.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Human League"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "handheldrigidlydigital",
+            "firstPublishedAt": "2021-02-11T17:25:17.432Z"
+          },
+          "title": "Handheld & Rigidly Digital",
+          "slug": "handheld--rigidly-digital",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7JaAS1usnJfea7kkTRLsle/0481ebcb12287490b1946322bc9cd42c/StiffLIttleFingers_132.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Stiff Little Fingers"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatthejazzcafe",
+            "firstPublishedAt": "2021-02-11T21:54:52.953Z"
+          },
+          "title": "Live at the Jazz Cafe",
+          "slug": "live-at-the-jazz-cafe",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6gbZASskRj6fR0rqUJx0Ak/9238ba02401b36aa3cac6ed881c64779/LeePerry3x2.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lee Perry"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "twopintsoflagerandapacketofcrispsplease",
+            "firstPublishedAt": "2021-02-11T17:27:37.358Z"
+          },
+          "title": "Two Pints of Lager and a Packet of Crisps Please!",
+          "slug": "two-pints-of-lager-and-a-packet-of-crisps-please",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7dKS8fJqeTI8HwyobLW2Pj/049e0897d8946dcf830669c81e0bd9db/legacymusic-1000184-image-16x9_Cover-en-US-SplodgenessBounds.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Splodgenessabounds"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "blueslegends",
+            "firstPublishedAt": "2021-02-11T21:57:02.523Z"
+          },
+          "title": "Live at Nightstage",
+          "slug": "blues-legends",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2KTiFwLTQYTZhAHYZ2JtZF/aca63e3fe70c7ba7fb52291f20b90ca2/JuniorWells3x2.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Junior Wells"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "atlantapopfestival",
+            "firstPublishedAt": "2021-02-11T18:51:18.740Z"
+          },
+          "title": "Electric Church",
+          "slug": "electric-church-atlanta-pop-festival",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6RxZRMBGxR1BsjhpPYPtxW/e8dc76eb837acff8a9cfe0df1f54bbf2/JimiHendrix_ElectricChurch32.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatmontreux2001",
+            "firstPublishedAt": "2021-02-11T18:23:39.794Z"
+          },
+          "title": "RUN-D.M.C. - Live at Montreux 2001",
+          "slug": "live-at-montreux-2001",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6YiqA1165NIMOKis8nwdnh/bfe738f5975951c286af2e33f469f844/legacymusic-1000241-image-16x9_Cover-en-US-RUNDMC__1_.jpg"
+          },
+          "genre": {
+            "title": "Hip-Hop",
+            "slug": "hip-hop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "RUN-D.M.C."
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatthelowry",
+            "firstPublishedAt": "2021-02-11T16:20:02.060Z"
+          },
+          "title": "Live at the Lowry",
+          "slug": "live-at-the-lowry",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2vQ4AVCOwO9HgEoGxoDDF2/3b9dca51e47837946e3007a2c50c0610/String16x9.jpg"
+          },
+          "genre": {
+            "title": "Folk",
+            "slug": "folk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Incredible String Band"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinnorway1967",
+            "firstPublishedAt": "2021-02-11T16:05:16.246Z"
+          },
+          "title": "Live in Norway 1967",
+          "slug": "live-in-norway-1967",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5q3KsGFNR5KALVHmVfy6jI/e4b15a55cac8341891bf176b077acd5d/legacymusic-1000088-image-16x9_Cover-en-US-StaxVoltRevue.jpg"
+          },
+          "genre": {
+            "title": "Soul",
+            "slug": "soul"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "soultosoul",
+            "firstPublishedAt": "2021-02-11T03:05:33.759Z"
+          },
+          "title": "Soul to Soul",
+          "slug": "soul-to-soul",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1QCZBpPxXy0EXK7lP1WUxW/51e257d4c21596ec7e0befba1819d273/Soul_To_Soul_32.jpg"
+          },
+          "genre": {
+            "title": "Soul",
+            "slug": "soul"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "fatmanliveinlondon",
+            "firstPublishedAt": "2021-02-11T22:05:14.031Z"
+          },
+          "title": "Fat Man Live in London",
+          "slug": "fat-man-live-in-london",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2R0dxz1O3hsQdCC5uiUavK/ec73ded1cf1c4c62407176efdf835443/DerrickMorganNoText.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Derrick Morgan"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "insession",
+            "firstPublishedAt": "2021-02-11T22:22:39.355Z"
+          },
+          "title": "In Session",
+          "slug": "in-session",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5GiweXUyA6sc0W8qi8S4Y2/61840f05e72ff10036d3e561c5a4184d/legacymusic-1000201-image-16x9_Cover-en-US-JeremySpencer.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jeremy Spencer"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "turnedupandturnedon",
+            "firstPublishedAt": "2021-02-12T00:42:01.740Z"
+          },
+          "title": "Turned up and Turned On",
+          "slug": "turned-up-and-turned-on",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5YZh96CyhyFUKuPJ5ZdX3N/3a938bcc0a4debe0135ff6dc3ec77a7c/legacymusic-1000200-image-16x9_Cover-en-US-JoeMcDonald_Fixed.jpg"
+          },
+          "genre": {
+            "title": "Folk",
+            "slug": "folk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Country Joe McDonald"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "12302019madisonsquaregardennewyorkny",
+            "firstPublishedAt": "2021-02-11T18:23:25.044Z"
+          },
+          "title": "12/30/2019 Madison Square Garden, New York, NY",
+          "slug": "12302019-madison-square-garden-new-york-ny",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6MSGkkZEaUeAF4g4C7arpY/67a60da80bcc389bef261286d3378785/Phish32.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Phish"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "dancinghorsesliveattheshepherdsbushempire",
+            "firstPublishedAt": "2021-02-12T00:43:49.808Z"
+          },
+          "title": "Dancing Horses: Live at the Shepherd's Bush Empire",
+          "slug": "dancing-horses-live-at-the-shepherds-bush-empire",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3JuCxPzqpKR0ilZATWTFLq/e7edee2cb8a15ab41a9b4ded80e3230a/legacymusic-1000157-image-16x9_Cover-en-US-EchoAndTheBunnymen.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Echo & The Bunnymen"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "hellinnewyorkliveinnuneaton",
+            "firstPublishedAt": "2021-02-11T17:33:23.770Z"
+          },
+          "title": "Hell in New York... Live in Nuneaton",
+          "slug": "hell-in-new-york-live-in-nuneaton",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/76I8sMjrk1vYC7Myvkg3TG/18d8f2a325b90ae3c866384b7bdce742/legacymusic-1000205-image-16x9_Cover-en-US-SlaughterAndDogs.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Slaughter & the Dogs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinseattleaugust82018",
+            "firstPublishedAt": "2021-02-12T02:08:10.169Z"
+          },
+          "title": "Live in Seattle August 8, 2018",
+          "slug": "live-in-seattle-august-8-2018",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5OASCmhSnoFSqaC7FfsKYC/ce6d95528be53ec34cdf0c1914c64b1c/legacymusic-1000133-image-16x9_Cover-en-US-PearlJam.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Pearl Jam"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "constructionforthemodernvidiot",
+            "firstPublishedAt": "2021-02-12T23:56:13.173Z"
+          },
+          "title": "Construction for the Modern Vidiot",
+          "slug": "construction-for-the-modern-vidiot",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5p4lmuk5BDpiQqrVNTseip/5b301fd56becc412c2d7a14d625518fd/legacymusic-1000141-image-16x9_Cover-en-US-TheWonderStuff.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Wonder Stuff"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "beataboutthebush",
+            "firstPublishedAt": "2021-02-11T22:07:24.892Z"
+          },
+          "title": "Beat About the Bush",
+          "slug": "beat-about-the-bush",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1dveoZnhQPbgnk4EH7GMZY/05497ba49cc3e518ded43176c28e71a2/legacymusic-1000147-image-16x9_Cover-en-US-Bluetones.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Bluetones"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "theadventuresofhershamboys",
+            "firstPublishedAt": "2021-02-12T01:19:58.413Z"
+          },
+          "title": "The Adventures of Hersham Boys",
+          "slug": "the-adventures-of-hersham-boys",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3ftUOHe5bLIPIxQlIbqL0Q/f9736e0d8e48ec2f7a2b8a77bad254d0/legacymusic-1000181-image-16x9_Cover-en-US-Sham69.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Sham 69"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "electricevil",
+            "firstPublishedAt": "2021-02-11T17:42:36.153Z"
+          },
+          "title": "Electric Evil",
+          "slug": "electric-evil",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3JZTgWPyTXBLjLQD8t3WSr/f0dbca1f2ec1f68c8f49b5b160b41b31/legacymusic-1000155-image-16x9_Cover-en-US-DiamonHead.jpg"
+          },
+          "genre": {
+            "title": "Metal",
+            "slug": "metal"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Diamond Head"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "strollingdownthehighway",
+            "firstPublishedAt": "2021-02-12T01:00:12.310Z"
+          },
+          "title": "Strolling Down the Highway",
+          "slug": "strolling-down-the-highway",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/202hmr9kLAa7nJQKt4TfGu/df1fef9535b3245306a37d42aaec051b/legacymusic-1000209-image-16x9_Cover-en-US-BertJansch.jpg"
+          },
+          "genre": {
+            "title": "Folk",
+            "slug": "folk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Bert Jansch"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "aneveningwiththeweddingpresent",
+            "firstPublishedAt": "2021-02-11T14:51:40.548Z"
+          },
+          "title": "An Evening with the Wedding Present",
+          "slug": "an-evening-with-the-wedding-present",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/38SR37IZxp60miepefnBAW/6ae1e6d722f34ae1267cc1d9ccbe8847/TheWeddingPresent3x2.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Wedding Present"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatmontreux1983",
+            "firstPublishedAt": "2021-02-11T20:40:47.209Z"
+          },
+          "title": "John Lee Hooker - Live at Montreux 1983",
+          "slug": "live-at-montreux-1983",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5ju3Go6vvsHYGEuUc9Ow8p/38201f7cb38238089d79e70c2bd344d4/legacymusic-1000242-image-16x9_Cover-en-US-JohnLeeHooker__1_.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "John Lee Hooker"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatthemarlowetheatrecanterbury",
+            "firstPublishedAt": "2021-02-12T01:26:23.638Z"
+          },
+          "title": "Live at the Marlowe Theatre Canterbury",
+          "slug": "live-at-the-marlowe-theatre-canterbury",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6uT5TYl4KHHzQO6Xq4qY8V/f61b294572d004b0fe443cd70101c0a1/legacymusic-1000220-image-16x9_Cover-en-US-FairportConvention.jpg"
+          },
+          "genre": {
+            "title": "Folk",
+            "slug": "folk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Fairport Convention"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "alltheyoungdudes",
+            "firstPublishedAt": "2021-02-12T02:02:43.898Z"
+          },
+          "title": "All the Young Dudes",
+          "slug": "all-the-young-dudes",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1QmbL5yp119jsuLoD0CFR1/5a4eb401c17532ee0626934f46d23ce3/Ian_Hunter3x2.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Ian Hunter"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "paulanka-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T15:41:35.472Z"
+          },
+          "title": "Paul Anka - The Great Songwriters",
+          "slug": "paul-anka---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7anBv4CwYW5KV1wgM1Fvhf/447836fdffef19eba0a89c84d916b297/Paul_Anka16x9.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Paul Anka"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "birthdaybash2020onthebeach",
+            "firstPublishedAt": "2021-02-12T02:01:22.716Z"
+          },
+          "title": "Birthday Bash 2020 on the Beach!",
+          "slug": "birthday-bash-2020-on-the-beach",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3DBFuocyBYH1ZzIOLdbRb6/ea060872f9afc5ca5beaa4afa946ea33/legacymusic-1000118-image-16x9_Cover-en-US-SammyHagar.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Sammy Hagar"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "dancecrasher",
+            "firstPublishedAt": "2021-02-11T17:00:27.701Z"
+          },
+          "title": "Dance Crasher",
+          "slug": "dance-crasher",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6druQwJMZ6aGzQKIWRejIz/549fe1ef65afc40131f4291aa63f6cee/AltonEllis3x2.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Alton Ellis"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "americanfolkbluesfestival1962-1969thebritishtours",
+            "firstPublishedAt": "2021-02-12T23:56:55.355Z"
+          },
+          "title": "American Folk Blues Festival 1963-1969 The British Tours",
+          "slug": "american-folk-blues-festival-1962-1969-the-british-tours",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3HJvJKqebO26eZVipooOj5/d9fe2e66e52a2f970caaf8b51df24f79/legacymusic-1000114-image-3x4_Cover-en-US-AFBF4.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "abrilliantlight",
+            "firstPublishedAt": "2021-02-12T01:57:38.286Z"
+          },
+          "title": "A Brilliant Light",
+          "slug": "a-brilliant-light",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3HwGTcF5MwPWKYLBE3BMHQ/d9f4dabd0aa0f635ac65d8c5693d85ec/legacymusic-1000210-image-16x9_Cover-en-US-AshleyHutchings.jpg"
+          },
+          "genre": {
+            "title": "Folk",
+            "slug": "folk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Ashley Hutchings & Rainbow Chasers"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinsweden",
+            "firstPublishedAt": "2021-02-12T01:56:47.473Z"
+          },
+          "title": "Live in Sweden",
+          "slug": "live-in-sweden",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1KwJQq13IOa8sY8QKGdVIS/9a5bd0b6a8937855d471928b59301f75/legacymusic-1000194-image-16x9_Cover-en-US-AlbertKing.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Albert King"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "billwithers-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T15:54:27.796Z"
+          },
+          "title": "Bill Withers - The Great Songwriters",
+          "slug": "bill-withers---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/OVIJ9MjuVLOPzPh3TqnY7/13d58c7368e2166206b44ce06e15eaf6/legacymusic-1000013-image-16x9_Cover-en-US-Bill_Withers.jpg"
+          },
+          "genre": {
+            "title": "Soul",
+            "slug": "soul"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Bill Withers"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "live1964",
+            "firstPublishedAt": "2021-02-11T17:30:09.752Z"
+          },
+          "title": "Live in '64",
+          "slug": "live-1964",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4A1yLwQaTOoiP1qiHd5Vk/c93635b73d00a3c0258d6aecc96c3dd0/legacymusic-1000230-image-16x9_Cover-en-US-CharlesMingus.jpg"
+          },
+          "genre": {
+            "title": "Jazz",
+            "slug": "jazz"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Charles Mingus"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatmontreux1990",
+            "firstPublishedAt": "2021-02-11T20:35:17.339Z"
+          },
+          "title": "John Lee Hooker - Live at Montreux 1990",
+          "slug": "live-at-montreux-1990",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4398d3ktxvkGik8R8r3P03/84c5a5ba3e08964716312edfea593e4e/legacymusic-1000243-image-16x9_Cover-en-US-JohnLeeHooker__1_.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "John Lee Hooker"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "nowisthetime",
+            "firstPublishedAt": "2021-02-12T01:41:30.009Z"
+          },
+          "title": "Now Is the Time",
+          "slug": "now-is-the-time",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4NQaUeG4lnNoBYN1zrJ1uS/bba46fdcea704158c91329f6691f5d2e/legacymusic-1000170-image-16x9_Cover-en-US-JimmyJames.jpg"
+          },
+          "genre": {
+            "title": "Soul",
+            "slug": "soul"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimmy James"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "atouchsensitive",
+            "firstPublishedAt": "2021-02-11T17:05:49.821Z"
+          },
+          "title": "A Touch Sensitive",
+          "slug": "a-touch-sensitive",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/J8Cqfs6sevM7byCRvuSU1/c47125f9d93e95b2bd21e365e84987de/legacymusic-1000159-image-16x9_Cover-en-US-TheFall.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Fall"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatwrigleyfield63017",
+            "firstPublishedAt": "2021-02-12T01:39:45.106Z"
+          },
+          "title": "Live at Wrigley Field 6/30/17",
+          "slug": "live-at-wrigley-field-63017",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4NqGc1Xw77WK6pW8Q5Jl7M/1f9f04cc0064cbb774ab52b3ba73468b/legacymusic-1000254-image-16x9_Cover-en-US-DeadAndCo.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Dead & Company"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "fromsouthsidetotyneside",
+            "firstPublishedAt": "2021-02-11T17:29:54.527Z"
+          },
+          "title": "From Southside to Tyneside",
+          "slug": "from-southside-to-tyneside",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1cISE9SvWMwDNOs6JwQbRY/471d97eaad42bfc194e976ed4f930b76/legacymusic-1000202-image-16x9_Cover-en-US-SouthSideJohnyAndTheAsburyJukes.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Southside Johnny"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "brightyoungthings",
+            "firstPublishedAt": "2021-02-12T01:36:43.233Z"
+          },
+          "title": "Bright Young Things",
+          "slug": "bright-young-things",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/397057y8Rf0I9FmZEL65Tz/4a2b35e6a404c397516f18815d5544d3/legacymusic-1000169-image-16x9_Cover-en-US-JesusJones.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jesus Jones"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatmontreux1974",
+            "firstPublishedAt": "2021-02-11T14:30:52.531Z"
+          },
+          "title": "Van Morrison - Live at Montreux 1974",
+          "slug": "live-at-montreux-1974",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4Yhnsx33wgltZSSuQKXD9K/a2f4a7b8d77a245abf8cda56d52e4155/legacymusic-1000244-image-4x3_Cover-en-US-VanMorrison.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Van Morrison"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "jimiplaysberkeley",
+            "firstPublishedAt": "2021-02-11T18:39:48.701Z"
+          },
+          "title": "Jimi Plays Berkeley",
+          "slug": "jimi-plays-berkeley",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/PRLRun0ckPxq16UgjBusw/04a13bae853fdee258bac44a469cf5c3/legacymusic-1000123-image-16x9_Cover-en-US-HendrixBERKELEY.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "seal-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T21:05:52.318Z"
+          },
+          "title": "Seal - The Great Songwriters",
+          "slug": "seal---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7vDWccgjgD386bbSkPJtJ6/2fb62fd8e27e3bfee76a06bb4c9e4f7f/Seal16x9.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Seal"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "anaudiencewithjoebrown",
+            "firstPublishedAt": "2021-02-12T01:28:49.552Z"
+          },
+          "title": "An Audience with Joe Brown",
+          "slug": "an-audience-with-joe-brown",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4W1uJ7Ny9Y5ksZS5yY22hT/05ccb9fd8748c44753e34e6c38e9feb5/legacymusic-1000149-image-16x9_Cover-en-US-JoeBrown.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Joe Brown"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "israelitesliveinlondon",
+            "firstPublishedAt": "2021-02-12T01:27:31.459Z"
+          },
+          "title": "Israelites Live in London",
+          "slug": "israelites-live-in-london",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1Z6D14CLYGhpI9SA6nR2lT/ed57b2ed46f75f0c50d16e677039bdf2/legacymusic-1000154-image-16x9_Cover-en-US-DesmondDekker.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Desmond Dekker"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "rialtotheatre1972rehearsals",
+            "firstPublishedAt": "2021-02-11T15:03:29.865Z"
+          },
+          "title": "Rialto Theatre 1972 Rehearsals",
+          "slug": "rialto-theatre-1972-rehearsals",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2Bqe3xWv5ALbzrQdSLFZ2v/56cf3202991f19fd5d99c8d92ca041b3/legacymusic-1000079-image-16x9_Cover-en-US-RollingStones.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Rolling Stones"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "steelwheelslive",
+            "firstPublishedAt": "2021-02-12T20:14:13.661Z"
+          },
+          "title": "Steel Wheels Live",
+          "slug": "steel-wheels-live",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/COu7upT4jEXyPwLNYPTe8/b7d6e937604cdcddcc694085d916845a/legacymusic-1000081-image-16x9_Cover-en-US-TheRollingStones.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Rolling Stones"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatstubbs",
+            "firstPublishedAt": "2021-02-11T22:49:10.375Z"
+          },
+          "title": "Live in Austin, TX",
+          "slug": "live-in-austin-tx",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2HRmsZDTMpS2H2lhUvd8Gm/2b0170e28712d62a578675be94e6bdd0/legacymusic-1000129-image-16x9_Cover-en-US-ArcAngels.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Arc Angels"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "shootthenedsinconcert",
+            "firstPublishedAt": "2021-02-12T00:07:38.904Z"
+          },
+          "title": "Shoot the Neds in Concert",
+          "slug": "shoot-the-neds-in-concert",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6PXbeFIDhkD7ibzzf3M26Q/88b03bfc20fb07ecc8a240101b537007/legacymusic-1000173-image-16x9_Cover-en-US-NedsAtomicDustbin.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "alltogethernowthatswhaticall",
+            "firstPublishedAt": "2021-02-12T20:51:00.695Z"
+          },
+          "title": "All Together Now That's What I Call",
+          "slug": "all-together-now-thats-what-i-call",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/76MbJx1UurCHsc75j7PN2q/750e142a55c426e2c8ddb3fcb0d50b41/legacymusic-1000160-image-16x9_Cover-en-US-TheFarm.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Farm"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "memphis9202020",
+            "firstPublishedAt": "2021-02-11T23:57:41.885Z"
+          },
+          "title": "Live from Music City 9/20/20",
+          "slug": "memphis-9202020",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6U7Jih5flYquGUq7SLy0dH/8e4319ecfb33eec73f86a793fbb659ee/kingfish3x2.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Christone \"Kingfish\" Ingram"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "battleshipchains",
+            "firstPublishedAt": "2021-02-11T23:55:09.071Z"
+          },
+          "title": "Battleship Chains",
+          "slug": "battleship-chains",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4IQwD7Y8q6F5hPmGKegGVn/6ce4a6ed15758e8410dc072391b307b8/legacymusic-1000162-image-16x9_Cover-en-US-DanBaird.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Dan Baird and Homemade Sin"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "warhead25thanniversary",
+            "firstPublishedAt": "2021-02-11T14:36:02.206Z"
+          },
+          "title": "Warhead: 25th Anniversary",
+          "slug": "warhead-25th-anniversary",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5DfBYgfDyYoOLQdeA80FIw/9ce3a49118ecba36ed702b5bd616dc9f/legacymusic-1000140-image-16x9_Cover-en-US-UKSubs_copy.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "UK Subs"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "americanlandingjimihendrixliveatmonterey",
+            "firstPublishedAt": "2021-02-11T18:04:02.480Z"
+          },
+          "title": "American Landing : Jimi Hendrix Live at Monterey",
+          "slug": "american-landing--jimi-hendrix-live-at-monterey",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3nb06edEUXPSlo92dIG4MT/bdff31385e26296330a2763ba59edf5c/Jimi_Hendrix_Monterey32.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatshepherdsbushempire",
+            "firstPublishedAt": "2021-02-11T16:23:29.089Z"
+          },
+          "title": "Live at Shepherd's Bush Empire",
+          "slug": "live-at-shepherds-bush-empire",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3VNlVhRnt5gr3V8NOfrIjQ/85881f2a0694e4444e0d65c50574279e/BuzzcocksNo3x2.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Buzzcocks"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "mytimeafterawhile",
+            "firstPublishedAt": "2021-02-11T17:09:33.209Z"
+          },
+          "title": "My Time After Awhile",
+          "slug": "my-time-after-awhile",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/60wle51FyFrQW59oGKYfKL/eb323bdefb69c782d360761753e357a7/legacymusic-1000128-image-16x9_Cover-en-US-BuddyGuy.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Buddy Guy"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "gimmesometruth",
+            "firstPublishedAt": "2021-02-11T18:08:29.330Z"
+          },
+          "title": "Gimme Some Truth",
+          "slug": "gimme-some-truth",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6JSYY23KZQcRom48wyySVJ/b7cb43b7692a61ff3a42a2e37e1b2da7/JohnLennon3x2.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "John Lennon"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "atlastthebeginningthemakingofelectricladyland",
+            "firstPublishedAt": "2021-02-12T01:02:59.995Z"
+          },
+          "title": "At Last...The Beginning: The Making of Electric Ladyland",
+          "slug": "at-lastthe-beginning-the-making-of-electric-ladyland",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2qjTBh9RM1GHPmtVGSUcrl/f4abc02cc593189e00cfba630f31201f/JimiHendrixAtTheBeginning3x2.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "nastytales",
+            "firstPublishedAt": "2021-02-11T17:09:19.925Z"
+          },
+          "title": "Nasty Tales",
+          "slug": "nasty-tales",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/mTnusPEF02gBYnMu9Cb3L/a6a921dc3ebd8e6d54559516247a0ab3/legacymusic-1000208-image-16x9_Cover-en-US-999NastyTales.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "999"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "widerhorizons",
+            "firstPublishedAt": "2021-02-11T17:44:01.597Z"
+          },
+          "title": "Wider Horizons",
+          "slug": "wider-horizons",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1uUbchiE4nUmDqmPrAvLrj/3b6af22028786cca4151f91b56940c7f/DavidGilmour32_copy.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "David Gilmour"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "theturningpoint",
+            "firstPublishedAt": "2021-02-12T01:00:17.891Z"
+          },
+          "title": "The Turning Point",
+          "slug": "the-turning-point",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2f0WbDLAD4Tug5r1hTb6Ed/d03bbfd2b954926f1146a9035dacb357/JohnMayall23x2.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "John Mayall"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "thegodfatherofbritishblues",
+            "firstPublishedAt": "2021-02-12T00:59:16.726Z"
+          },
+          "title": "The Godfather of British Blues",
+          "slug": "the-godfather-of-british-blues",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4PsImdqiQjdjLqvultD2F4/1b966303c1cc7a5e1956487c5e8e9d90/JohnMayallNoText.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "John Mayall"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "outoftheshadowsinconcert",
+            "firstPublishedAt": "2021-02-11T17:59:07.231Z"
+          },
+          "title": "Out of the Shadows in Concert",
+          "slug": "out-of-the-shadows-in-concert",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3Jpb3dmdttlHgYJ5gzE0Dy/b0c169938683e6f2a01f2631235f6aa3/legacymusic-1000163-image-16x9_Cover-en-US-Hawkwind.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Hawkwind"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "ghostsoftheforestlivefromthebeacontheatre",
+            "firstPublishedAt": "2021-02-11T14:41:47.749Z"
+          },
+          "title": "Ghosts of the Forest: Live from the Beacon Theatre",
+          "slug": "ghosts-of-the-forest-live-from-the-beacon-theatre",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2RkGEzj3OkZO0CeOL9VyID/1f51c4b92a4adf8882d3b19b041de70e/TrayAnastasio3x2.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Trey Anastasio"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "journeyman",
+            "firstPublishedAt": "2021-02-12T23:53:16.050Z"
+          },
+          "title": "Journeyman",
+          "slug": "journeyman",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6wp1Y0Z7F5R2DuVObnzsCJ/3a89480d3eda6dddc3f49414aedccb2e/MIchaelChapman32.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Michael Chapman"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "thedickcavettshowdocumentary",
+            "firstPublishedAt": "2021-02-12T00:51:35.529Z"
+          },
+          "title": "The Dick Cavett Show Documentary",
+          "slug": "the-dick-cavett-show-documentary",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6kAlzGdwZWFgXFYtxVZVGr/9899695d613fec81e52ebc9e67271396/JimiHendrix_DickCavett_16x9_NoText_4.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "carlysimon-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T15:50:32.751Z"
+          },
+          "title": "Carly Simon - The Great Songwriters",
+          "slug": "carly-simon---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/wUANaTGtE5LNBxaDRpSBm/344415ef5d7df7061c41aeb60f9c5945/legacymusic-1000024-image-16x9_Cover-en-US-Carly_Simon.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Carly Simon"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "jasonisbellthe400unit-nashville10182019",
+            "firstPublishedAt": "2021-02-12T00:42:20.177Z"
+          },
+          "title": "Live at The Ryman Auditorium 10/18/2019",
+          "slug": "jason-isbell--the-400-unit---nashville-10182019",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1U9ILsoH28H7Q3TIgWrjTg/f6f3964e96572cd7c49dd9c35222531d/isbell_3x2.jpg"
+          },
+          "genre": {
+            "title": "Country",
+            "slug": "country"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jason Isbell"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "dontcallmebabylive",
+            "firstPublishedAt": "2021-02-11T17:11:08.793Z"
+          },
+          "title": "Don't Call Me Baby Live",
+          "slug": "dont-call-me-baby-live",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5GayST9ShvLOF87U7AVtK4/d40189b7d9ffa8283fb714a0da9e7b7e/legacymusic-1000139-image-16x9_Cover-en-US-VoiceOfBeeHive.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Voice of the Beehive"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "willyouliveinbrighton",
+            "firstPublishedAt": "2021-02-12T00:35:20.305Z"
+          },
+          "title": "Will You Live in Brighton",
+          "slug": "will-you-live-in-brighton",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5RC80IWpGnnNjpul2XVJFO/06273f4e6a45b761a17322be6797bfdc/HazelOConnor3x2.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Hazel O'Connor"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "stillkicking",
+            "firstPublishedAt": "2021-02-11T17:22:00.995Z"
+          },
+          "title": "Still Kicking",
+          "slug": "still-kicking",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/45bBUPzXkh5kk3eYVJFB8U/214077f59a401a4234be09d0953e5f21/StiffLIttleFingers_232.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Stiff Little Fingers"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinnoblesvillein6292019",
+            "firstPublishedAt": "2021-02-11T22:16:37.939Z"
+          },
+          "title": "Live in Noblesville, IN 6/29/2019",
+          "slug": "live-in-noblesville-in-6292019",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/37miJ7TqIJO03SDuajTHto/64168410fb32786f5ca390fd38f81c23/legacymusic-1000026-image-16x9_Cover-en-US-DaveMatthewsBand.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Dave Matthews Band"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "shotliveatthe100club",
+            "firstPublishedAt": "2021-02-12T00:22:08.406Z"
+          },
+          "title": "Shot Live at the 100 Club",
+          "slug": "shot-live-at-the-100-club",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2IpqJXkk3HaieJTPP2pWq5/51ae44d298004cfdfb9e874f11f1c67c/GodFathers3x2.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Godfathers"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatmontreux2003",
+            "firstPublishedAt": "2021-02-11T15:38:37.444Z"
+          },
+          "title": "Yes - Live at Montreux 2003",
+          "slug": "live-at-montreux-2003",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/13ytSaiXL5y8HZQej7oeYs/c0100f110f8ddac484f2659a08c4ca66/Yes_Live_at_Montreux_2004.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Yes"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "welovetheworld",
+            "firstPublishedAt": "2021-02-11T18:31:38.609Z"
+          },
+          "title": "We Love the World",
+          "slug": "we-love-the-world",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3rnfECNZfdHNt5qcTKwIfa/6f293c6018136d9c4a466ea97eb417db/legacymusic-1000174-image-16x9_Cover-en-US-NewModelArmy.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "New Model Army"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinbrightonconcorde",
+            "firstPublishedAt": "2021-02-11T19:56:22.830Z"
+          },
+          "title": "Live in Brighton Concorde",
+          "slug": "live-in-brighton-concorde",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1exscDMrwMj6dlOSD2xtuk/e38d33aa5f15d94196faf81f8e800a3d/legacymusic-1000219-image-16x9_Cover-en-US-LeePerry.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Lee Perry"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "bandofgypsysconcert",
+            "firstPublishedAt": "2021-02-11T19:54:20.001Z"
+          },
+          "title": "Band of Gypsys Concert",
+          "slug": "band-of-gypsys-concert",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1b16bR9E61SiPQnb0T5ZPn/aa53ee8a85dd3ecb16b4b407a410a10d/JimiHendrixBandOfGypsys3x2.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "thedocumentary",
+            "firstPublishedAt": "2021-02-11T18:49:49.936Z"
+          },
+          "title": "Living In A Dream",
+          "slug": "the-documentary",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1syPlO579iMJp69VgzjQbg/f29c47d88c53181cf8337685f693eced/legacymusic-1000130-image-16x9_Cover-en-US-ArcAngels.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Arc Angels"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "hearmytrainacomin",
+            "firstPublishedAt": "2021-02-11T17:54:27.859Z"
+          },
+          "title": "Hear My Train A Comin’",
+          "slug": "hear-my-train-a-comin",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5aZ5CcftNK5HP8qZNJKEaO/1c0da0913f5a8116b4e32b940f26526c/JIMIH_HearMyTrainAComin32.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "live1960-1965",
+            "firstPublishedAt": "2021-02-12T01:08:48.061Z"
+          },
+          "title": "Live in '60, '61 & '65",
+          "slug": "live-1960-1965",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4RgO9wzjQIHvB26gutzFkg/09b3bb1a76ce8b6c13e66d416443dca6/legacymusic-1000229-image-16x9_Cover-en-US-JohnColtrane.jpg"
+          },
+          "genre": {
+            "title": "Jazz",
+            "slug": "jazz"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "John Coltrane"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "americanfolkbluesfestival1962-1969volume3",
+            "firstPublishedAt": "2021-02-11T22:43:46.301Z"
+          },
+          "title": "American Folk Blues Festival 1962-1969 Volume 3",
+          "slug": "american-folk-blues-festival-1962-1969-volume-3",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2mChOWNVcsKwO9geDqf5md/3d133253aeb1dfb990344cb36f026317/legacymusic-1000103-image-16x9_Cover-en-US-AFBF3.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "americanfolkbluesfestival1962-1966volume1",
+            "firstPublishedAt": "2021-02-11T18:55:09.726Z"
+          },
+          "title": "American Folk Blues Festival 1962-1966 Volume 1",
+          "slug": "american-folk-blues-festival-1962-1966-volume-1",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1jMOpDP4sJoL816dqK3ALv/3b389c0b57c0176d8b90dd99f8d8cc2e/legacymusic-1000101-image-16x9_Cover-en-US-AFBF1.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "americanfolkbluesfestival1962-1966volume2",
+            "firstPublishedAt": "2021-02-11T22:42:41.860Z"
+          },
+          "title": "American Folk Blues Festival 1962-1966 Volume 2",
+          "slug": "american-folk-blues-festival-1962-1966-volume-2",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7qBvnHhgKoGDUlSurnsBw8/5ca8cdec195baa3c1008e0483f4ddc22/legacymusic-1000102-image-16x9_Cover-en-US-AFBF2.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "jimmywebb-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T15:48:29.853Z"
+          },
+          "title": "Jimmy Webb - The Great Songwriters",
+          "slug": "jimmy-webb---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4pRzhPfi2BUgNPmB7G5MT3/52b6c5d2665b6486f8c3aac6fc459631/legacymusic-1000047-image-16x9_Cover-en-US-Jimmy_Webb.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimmy Webb"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T15:58:06.652Z"
+          },
+          "title": "Barry Gibb - The Great Songwriters",
+          "slug": "barry-gibb-the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2p0Jt73l4SbuwXakD7J96U/7732223028effb08aae56dcc0082f2d2/legacymusic-1000010-image-16x9_Cover-en-US-Barry_Gibb.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Barry Gibb"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "rickieleejones-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T15:59:34.295Z"
+          },
+          "title": "Rickie Lee Jones - The Great Songwriters",
+          "slug": "rickie-lee-jones---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4UlH6tF3HdqlaujBLfUzFl/514884300079aac87a378801d002d661/Rickie_Lee_Jones16x9.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Rickie Lee Jones"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "norahjones-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T15:42:36.072Z"
+          },
+          "title": "Norah Jones - The Great Songwriters",
+          "slug": "norah-jones---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1KII9GGh9RzopwdvocWA4S/7e789a7507adc61aad3011e4d87382fb/Norah_Jones16x9.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Norah Jones"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "noelgallagher-thegreatsongwriters",
+            "firstPublishedAt": "2021-02-11T21:07:11.109Z"
+          },
+          "title": "Noel Gallagher - The Great Songwriters",
+          "slug": "noel-gallagher---the-great-songwriters",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/22tE3lu56XKrKGoBBkna52/19f623f53b80d25e907f6787b8b00e9c/legacymusic-1000066-image-16x9_Cover-en-US-Noel_Gallagher.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Noel Gallagher"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "creemamericasonlyrocknrollmagazine",
+            "firstPublishedAt": "2021-02-10T22:17:55.180Z"
+          },
+          "title": "CREEM: America's Only Rock 'n' Roll Magazine",
+          "slug": "creem-americas-only-rock-n-roll-magazine",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4U1p7al6m9YzYZ59Rj3ZLa/a84fafb73c5adc7cbfdb23bca45a451e/CREEM_SVOD_Thumbnail.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "charlottespeedway",
+            "firstPublishedAt": "2021-02-11T22:03:19.423Z"
+          },
+          "title": "Charlotte Speedway",
+          "slug": "charlotte-speedway",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4CidoJaTiW8avjqLY1484O/ab0bf5cc56b7ca24c4b2fb074e3cdc79/TheAvettBrothers_16x9_NoText.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Avett Brothers"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "glamnationlive",
+            "firstPublishedAt": "2021-02-11T22:26:53.367Z"
+          },
+          "title": "Glam Nation Live",
+          "slug": "glam-nation-live",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/16xUdysACmODVhYwTvloCo/252db9226ca881ead2f756bc1d0a3280/legacymusic-1000004-image-16x9_Cover-en-US-AdamLambert.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Adam Lambert"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveineurope",
+            "firstPublishedAt": "2021-02-11T22:31:36.129Z"
+          },
+          "title": "Live in Europe",
+          "slug": "live-in-europe",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3CGgooyOz8cEgTgWQwvbQU/9ea85d34c73a759883f3cb461d94aca4/FreddieKing_BoxArt_16x9.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Freddie King"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "concertinthepark",
+            "firstPublishedAt": "2021-02-12T00:49:35.077Z"
+          },
+          "title": "Concert in the Park",
+          "slug": "concert-in-the-park",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/7G80UcjBRmF8YwE9swCW2g/673cd6866b4bffe8ba2b6426115b7c13/legacymusic-1000073-image-16x9_Cover-en-US-PaulSimon.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Paul Simon"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "replay2020",
+            "firstPublishedAt": "2021-02-12T02:08:52.455Z"
+          },
+          "title": "Replay 2020",
+          "slug": "replay-2020",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6KBh83z8tWDXrzN6sxrRgh/670ead9f89bdde7d7f3404bc50ba7126/legacymusic-1000039-image-16x9_Cover-en-US-JanesAddiction.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jane's Addiction"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinphiladelphiaapril292016",
+            "firstPublishedAt": "2021-02-12T23:52:57.426Z"
+          },
+          "title": "Live in Philadelphia April 29, 2016",
+          "slug": "live-in-philadelphia-april-29-2016",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5mX0UeOBmpjGOFHve18V2D/223784db3426a2af8176cf2a53132d3e/legacymusic-1000134-image-16x9_Cover-en-US-PearlJam.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Pearl Jam"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "livefrommanchester",
+            "firstPublishedAt": "2021-02-11T22:09:11.972Z"
+          },
+          "title": "Live from Manchester",
+          "slug": "live-from-manchester",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5eOZAGgFPbViu4HJIwYn8o/a5364d53cec7c82ad49d37102a664d0a/OasisNoText.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Oasis"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "livein1967",
+            "firstPublishedAt": "2021-02-12T01:21:31.464Z"
+          },
+          "title": "Live in 1967",
+          "slug": "live-in-1967",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2uAg21h4eSlgdUCbLHFeO0/7608cfd92c671eee507ab8ce3bfeb6b6/legacymusic-1000111-image-16x9_Cover-en-US-MilesDavis.jpg"
+          },
+          "genre": {
+            "title": "Jazz",
+            "slug": "jazz"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Miles Davis"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "undressed",
+            "firstPublishedAt": "2021-02-12T01:22:53.188Z"
+          },
+          "title": "Undressed",
+          "slug": "undressed",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4bm4hpPVVpE03M8ubNhi4S/8da03f394d346eacaa8435a40e5a7889/legacymusic-1000036-image-16x9_Cover-en-US-GretchenWilson.jpg"
+          },
+          "genre": {
+            "title": "Country",
+            "slug": "country"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Gretchen Wilson"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatredrocks",
+            "firstPublishedAt": "2021-02-12T01:24:15.460Z"
+          },
+          "title": "Live at Red Rocks",
+          "slug": "live-at-red-rocks",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1evnaiykAQOOM59pRDjZRz/a11e7ebb18d4c87d4bb18061cbd960a9/legacymusic-1000117-image-16x9_Cover-en-US-MyMorningJacket.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "My Morning Jacket"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinneworleans10312019",
+            "firstPublishedAt": "2021-02-11T14:21:15.605Z"
+          },
+          "title": "Live in New Orleans 10/31/2019",
+          "slug": "live-in-new-orleans-10312019",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4ByK0f6l5Ca5PaJ8Ku4Vxn/a321b92edc58c9842076ea2dac54dc2e/legacymusic-1000111-image-16x9_Cover-en-US-WideSpreadPanic.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Widespread Panic"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveattheisleofwright1970",
+            "firstPublishedAt": "2021-02-12T02:04:08.169Z"
+          },
+          "title": "Live at the Isle of Wight 1970",
+          "slug": "live-at-the-isle-of-wight-1970",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3L6FpJpSHbjyAJTBojiZxN/d619f972c572731980c26a87dd50a6a1/legacymusic-1000054-image-16x9_Cover-en-US-LeonardCohen.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Leonard Cohen"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "backandforth",
+            "firstPublishedAt": "2021-02-12T01:55:37.259Z"
+          },
+          "title": "Back and Forth",
+          "slug": "back-and-forth",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3Y5EGlVqEGCNrXr2xEOQuF/efa7c5caf4758f83ba335f2963ff9741/legacymusic-1000033-image-16x9_Cover-en-US-FooFighters.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Foo Fighters"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "pearljamtwenty",
+            "firstPublishedAt": "2021-02-12T01:50:02.287Z"
+          },
+          "title": "Pearl Jam Twenty",
+          "slug": "pearl-jam-twenty",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/2bQV25WQ91qg0kQRTDNwlY/4efe8de3206984b55714985302c3b3ed/legacymusic-1000222-image-16x9_Cover-en-US-PearlJam.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Pearl Jam"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "themarqueeclublivein1971",
+            "firstPublishedAt": "2021-02-12T01:47:25.455Z"
+          },
+          "title": "The Marquee Club Live in 1971",
+          "slug": "the-marquee-club-live-in-1971",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1VROcKGaqBSrI341F85Ils/f0020e162346b14090ee31cfa9feda50/legacymusic-1000078-image-16x9_Cover-en-US-TheRollingStones.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "The Rolling Stones"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "thekidsaretwenty",
+            "firstPublishedAt": "2021-02-12T02:00:16.483Z"
+          },
+          "title": "The Kids Are Twenty",
+          "slug": "the-kids-are-twenty",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5GsYGcOpp5qoERz6BgsVwY/e0cf60c024e865270596494541d72b23/legacymusic-1000222-image-16x9_Cover-en-US-PearlJam__1_.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Pearl Jam"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "therealthinginperformance",
+            "firstPublishedAt": "2021-02-11T18:15:17.048Z"
+          },
+          "title": "The Real Thing In Performance",
+          "slug": "the-real-thing-in-performance",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3jZHU9kd92uKbYJ1z4vocs/5e16f2e82225752ba1636c7ba8f615ce/legacymusic-1000058-image-16x9_Cover-en-US-MarvinGay.jpg"
+          },
+          "genre": {
+            "title": "Soul",
+            "slug": "soul"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Marvin Gaye"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "braveenoughliveatthevarietyplayhouse",
+            "firstPublishedAt": "2021-02-12T01:38:14.062Z"
+          },
+          "title": "Brave Enough: Live at the Variety Playhouse",
+          "slug": "brave-enough-live-at-the-variety-playhouse",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1KqDn9eqm5IaZYfcV4BFhY/87fbadd525bda4bbe79d9e4ced3b34fe/legacymusic-1000082-image-16x9_Cover-en-US-SaraBareilles.jpg"
+          },
+          "genre": {
+            "title": "Pop",
+            "slug": "pop"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Sara Bareilles"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatriverplate",
+            "firstPublishedAt": "2021-02-12T01:30:32.304Z"
+          },
+          "title": "Live at River Plate",
+          "slug": "live-at-river-plate",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1zQPfy8Eq8m3GflA3JXsW0/d699c4a1bd7c6c0d817ad74903241a16/legacymusic-UNIQUEID-image-16x9_Cover-en-US-ACDC.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "AC/DC"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "everywherebuthome",
+            "firstPublishedAt": "2021-02-12T23:54:28.509Z"
+          },
+          "title": "Everywhere But Home",
+          "slug": "everywhere-but-home",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1v3hlRGUFqFWWfcgqAg2R2/3e65a6c8e46da803a4db3fb519dcfe66/legacymusic-1000032-image-16x9_Cover-en-US-FooFighters.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Foo Fighters"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "betweenthelinesliveatthefillmore",
+            "firstPublishedAt": "2021-02-12T00:09:30.859Z"
+          },
+          "title": "Between the Lines: Live at the Fillmore",
+          "slug": "between-the-lines-live-at-the-fillmore",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/51FnriLQ9MjTMET2PxKJi0/e980417682b5e8d83661ce47fee90144/legacymusic-1000083-image-16x9_Cover-en-US-SaraBareilles.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Sara Bareilles"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "industrialaccidentthestoryofwaxtraxrecords",
+            "firstPublishedAt": "2021-02-10T22:01:31.820Z"
+          },
+          "title": "INDUSTRIAL ACCIDENT: The Story of Wax Trax! Records",
+          "slug": "industrial-accident-the-story-of-wax-trax-records",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6C5r7XCzFPYzffMQruPjVc/6269d6d5279065d17f076837d03b8b09/Main-Image_WaxTrax_IA_TitleImage_2560x1920px_3-4ratio_Layers.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": []
+          }
+        },
+        {
+          "sys": {
+            "id": "liveinchicago",
+            "firstPublishedAt": "2021-02-11T23:53:04.851Z"
+          },
+          "title": "Live in Chicago",
+          "slug": "live-in-chicago",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5kCaOmYkAia6pcO877wxYH/a80eb19bbe20779db57e338b915ff76b/JeffBuckley_BoxArt_16x9.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jeff Buckley"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "musicmoneymadnessjimihendrixinmaui",
+            "firstPublishedAt": "2021-02-11T03:14:31.123Z"
+          },
+          "title": "Music, Money, Madness...Jimi Hendrix in Maui",
+          "slug": "music-money-madness-jimi-hendrix-in-maui",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/ShvDp94OjVkrILzaCoO8k/3012732a060947adc438f12409033d1d/legacymusic-1000046-image-16x9_Cover-en-US-JimiHendrix.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Jimi Hendrix"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatredrocks72119",
+            "firstPublishedAt": "2021-02-11T17:17:58.844Z"
+          },
+          "title": "Live at Red Rocks 7/21/19",
+          "slug": "live-at-red-rocks-72119",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/15raWvkG0aZUXpWehe7P0X/970b3e2524c09b6d10bbea3e82c05f10/legacymusic-1000058-image-16x9_Cover-en-US-StringCheeseInCident_copy.jpg"
+          },
+          "genre": {
+            "title": "Rock",
+            "slug": "rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "String Cheese Incident"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "revolutionlivebycandlelight",
+            "firstPublishedAt": "2021-02-11T23:48:52.607Z"
+          },
+          "title": "Revolution: Live By Candlelight",
+          "slug": "revolution-live-by-candlelight",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/8OUIAq8FPR0bHxar2GEvB/17485500159f1cff90cce99e598b24ae/legacymusic-1000063-image-16x9_Cover-en-US-MirandaLambert.jpg"
+          },
+          "genre": {
+            "title": "Country",
+            "slug": "country"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Miranda Lambert"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "amoonlighserenadeonthequeenmary2",
+            "firstPublishedAt": "2021-02-12T01:12:10.886Z"
+          },
+          "title": "A Moonlight Serenade on the Queen Mary 2",
+          "slug": "a-moonlight-serenade-on-the-queen-mary-2",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/4NbWXHf8FdySAJ3w3aqW06/ad7dce4f9f3e586e66a1f5deb70a585e/CarlySimon_BoxArt_1920x1080_NoText.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Carly Simon"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "theconcertincentralpark",
+            "firstPublishedAt": "2021-02-12T00:57:44.920Z"
+          },
+          "title": "The Concert in Central Park",
+          "slug": "the-concert-in-central-park",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/195axTytGzewo7dK7u60GD/65b633e1ea5b0c9c809ec6ce4a4d4368/SimonAndGarfunkel_BoxArt_1920x1080_NoText.jpg"
+          },
+          "genre": {
+            "title": "Folk",
+            "slug": "folk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Simon & Garfunkel"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatdonington",
+            "firstPublishedAt": "2021-02-12T00:52:45.803Z"
+          },
+          "title": "Live at Donington",
+          "slug": "live-at-donington",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/72QrstNeeJzPUGoceNdaBl/5abce72e62a0185f341a73b9fc8b9c0f/legacymusic-1000001-image-16x9_Cover-en-US-ACDC.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "AC/DC"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveeverythinglouderthaneverythingelse",
+            "firstPublishedAt": "2021-02-12T00:23:51.141Z"
+          },
+          "title": "Live: Everything Louder Than Everything Else",
+          "slug": "live-everything-louder-than-everything-else",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/75WiaxxXCE0blM8DPLkSVV/df1bbacc098d4edbc6ad5a9cf7471957/legacymusic-1000064-image-16x9_Cover-en-US-Motorhead.jpg"
+          },
+          "genre": {
+            "title": "Metal",
+            "slug": "metal"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Motorhead"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "alwaysandforeveraneveningofsongsattheroyalalberthalllive",
+            "firstPublishedAt": "2021-02-12T00:48:50.545Z"
+          },
+          "title": "Always and Forever: An Evening of Songs at the Royal Albert Hall (Live)",
+          "slug": "always-and-forever-an-evening-of-songs-at-the-royal-albert-hall-live",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/QxFNQ8NZbYbTYCO4YOXFB/701e02e3e69095bf676cdbd685d9647d/legacymusic-1000056-image-16x9_Cover-en-US-LutherVandross.jpg"
+          },
+          "genre": {
+            "title": "Soul",
+            "slug": "soul"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Luther Vandross"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "hydepark",
+            "firstPublishedAt": "2021-02-12T00:46:42.268Z"
+          },
+          "title": "Hyde Park",
+          "slug": "hyde-park",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/41nX2hqFU7PoIWEJgqOs2W/cceede241c3e6fb559aba7c4cf86809b/legacymusic-1000034-image-16x9_Cover-en-US-FooFighters.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Foo Fighters"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveattheelmocambo",
+            "firstPublishedAt": "2021-02-12T00:43:37.354Z"
+          },
+          "title": "Live at the El Mocambo",
+          "slug": "live-at-the-el-mocambo",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/6ENFKW9mJ0tza94yKJn7c3/b295a96a29614fbf639a790c9dacbc1f/StevieRayVaughan_BoxArt_1920x1080_NoText.jpg"
+          },
+          "genre": {
+            "title": "Blues",
+            "slug": "blues"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Stevie Ray Vaughan"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "liveatthebeacontheatre",
+            "firstPublishedAt": "2021-02-12T23:52:25.191Z"
+          },
+          "title": "Live at the Beacon Theatre",
+          "slug": "live-at-the-beacon-theatre",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/3zojk5FWYtc6DRO0nGXdmo/1aad0dfa15ff6621301302453d8c7d4b/JamesTaylor_BoxArt_1920x1080.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "James Taylor"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "thepublicimageisrotten",
+            "firstPublishedAt": "2021-02-11T18:19:12.172Z"
+          },
+          "title": "The Public Image is Rotten",
+          "slug": "the-public-image-is-rotten",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1e6bebu0jyntxPa2DJNuhG/11987cd3db6c9848c8f2b2d83efb8c39/legacymusic-1000262-image-16x9_Cover-en-US-PublicImage.jpg"
+          },
+          "genre": {
+            "title": "Punk",
+            "slug": "punk"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "John Lydon"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "troublenomore",
+            "firstPublishedAt": "2021-02-12T00:26:20.115Z"
+          },
+          "title": "Trouble No More",
+          "slug": "trouble-no-more",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/iV5ImEKfGRNYzz2P4Zj2F/65448e108fd3e2f4ac5afc67a1c73059/legacymusic-1000226-image-16x9_Cover-en-US-BobDylan.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Bob Dylan"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "skinandbones",
+            "firstPublishedAt": "2021-02-12T23:55:48.986Z"
+          },
+          "title": "Skin and Bones",
+          "slug": "skin-and-bones",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/F7Fb94oGfNn3kn2MWw29l/d64da6329c14707297549c494906c709/legacymusic-1000035-image-16x9_Cover-en-US-FooFighters.jpg"
+          },
+          "genre": {
+            "title": "Alternative",
+            "slug": "alternative"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Foo Fighters"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "theconcertinhydepark",
+            "firstPublishedAt": "2021-02-11T19:48:47.047Z"
+          },
+          "title": "The Concert in Hyde Park",
+          "slug": "the-concert-in-hyde-park",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/HMAIGgur4S6lHnsRv3MNO/743c2908100271898a6556cf77e60fa3/legacymusic-1000072-image-16x9_Cover-en-US-PaulSimon.jpg"
+          },
+          "genre": {
+            "title": "Singer-Songwriter",
+            "slug": "singer-songwriter"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Paul Simon"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "epitaph",
+            "firstPublishedAt": "2021-02-11T19:17:34.072Z"
+          },
+          "title": "Epitaph",
+          "slug": "epitaph",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/5mCqlF0cCNtaVXHY8CJhQw/1679336fb54ca2c5327afc266a65313a/legacymusic-1000050-image-16x9_Cover-en-US-JudasPriest.jpg"
+          },
+          "genre": {
+            "title": "Metal",
+            "slug": "metal"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Judas Priest"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2M1vXAu68TV1lXwjEBPcjt",
+            "firstPublishedAt": "2021-02-10T00:46:20.683Z"
+          },
+          "title": "The Other Side of the Mirror",
+          "slug": "other-side-of-the-mirror",
+          "image": {
+            "url": "https://images.ctfassets.net/fn4rm3tin2xg/1STCssiS5UPM77DHuwgnuz/aadbeacf652f8150730b712d38a75eed/BobDylan32.jpg"
+          },
+          "genre": {
+            "title": "Classic Rock",
+            "slug": "classic-rock"
+          },
+          "featuredArtistsCollection": {
+            "items": [
+              {
+                "title": "Bob Dylan"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
